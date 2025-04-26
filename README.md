@@ -1,6 +1,6 @@
 # Olá eu sou o Arthur!
 
-•
+• Meus interesses
 
 - 🎓 Estudando engenharia de software 
 - 💻 Estudando Power Bi
